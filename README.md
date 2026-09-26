@@ -9,8 +9,11 @@ seaborn, scikit-learn).
 - **hw0/** — What is Data Science + intro to Python.
 - **hw1/** — Data science workflow and NumPy, on the iris dataset.
 - **hw2/** — Pandas and data exploration, on World Happiness Report data.
+- **hw3/** — Linear and polynomial regression, on Boston housing data.
 - **hw4/** — Sentiment analysis on scraped news data (web scraping + sentiment
   analysis with positive/negative word lists).
+- **hw5/** — Tumor classification for breast-cancer detection (decision trees,
+  confusion matrices).
 
 ## Projects
 
