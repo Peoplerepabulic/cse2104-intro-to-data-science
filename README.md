@@ -15,6 +15,7 @@ seaborn, scikit-learn).
 - **hw5/** — Tumor classification for breast-cancer detection (decision trees,
   confusion matrices).
 - **hw8/** — k-NN regression and k-fold cross-validation.
+- **hw9/** — K-means clustering on employee attrition data.
 
 ## Projects
 
