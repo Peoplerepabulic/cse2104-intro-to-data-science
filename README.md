@@ -9,6 +9,9 @@ seaborn, scikit-learn).
 - **project1-midterm/** — County Health Rankings analysis: what drives life
   expectancy across 3,195 U.S. counties (2024 CHR analytic data). EDA,
   correlation analysis, and linear-regression modeling with 5-fold CV.
+- **project2-final-project/** — Melbourne housing price prediction: full
+  regression pipeline (EDA → baseline → feature engineering → tuned models).
+  Best model: Random Forest, RMSE $265k, R² = 0.823.
 
 ## Author
 
