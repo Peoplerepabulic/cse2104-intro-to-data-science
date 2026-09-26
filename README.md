@@ -8,6 +8,7 @@ seaborn, scikit-learn).
 
 - **hw0/** — What is Data Science + intro to Python.
 - **hw1/** — Data science workflow and NumPy, on the iris dataset.
+- **hw2/** — Pandas and data exploration, on World Happiness Report data.
 - **hw4/** — Sentiment analysis on scraped news data (web scraping + sentiment
   analysis with positive/negative word lists).
 
